@@ -1,0 +1,16 @@
+{
+  "array1": [
+    {
+      "FULLNAME": "Angel K. Vasallo",
+      "AGE": 23,
+      "Your_quotes": "Be kind, always."
+    }
+  ],
+  "array2": [
+     {
+	"Class_Section": "SECTION A",
+	"Section_Code":	 "T221",
+	"Buksu_Email": "2001101382@student.buksu.edu.com"
+     }
+]
+}
